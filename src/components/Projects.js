@@ -15,7 +15,7 @@ return(
     <div>
         LIMIT PLANNING
     </div>
-    <div><img src={LIMIT}/></div>
+    <div><img src={LIMIT} style={{height: "200px", width: "auto"}}/></div>
     <div>
         Limit is a financial planning app that allows users to get a projected 
         balance, on their banking account, on any given date, by inputing normal monthly expenses and earnings.
@@ -30,7 +30,7 @@ return(
         L.A.S.T. Coffee
     </div>
     <div>
-        <img src={LAST}/>
+        <img src={LAST} style={{height: "200px", width: "auto"}}/>
     </div>
     <div>
         An e-commerce website selling coffee and coffee related products. This was the first group projoject app I ever built. 
